@@ -20,4 +20,8 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
+
+  # USNO Gems:
+  spec.add_runtime_dependency     "usno-imagery"
+  spec.add_runtime_dependency     "usno-transit"
 end

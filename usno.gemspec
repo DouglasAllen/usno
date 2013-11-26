@@ -24,4 +24,5 @@ Gem::Specification.new do |spec|
   # USNO Gems:
   spec.add_runtime_dependency     "usno-imagery"
   spec.add_runtime_dependency     "usno-transit"
+  spec.add_runtime_dependency     "usno-eclipse"
 end

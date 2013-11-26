@@ -23,6 +23,7 @@ Require the library/libaries you wish to use:
 ```ruby
 require usno/imagery # For synthetic images of Earth and selected solar system bodies.
 require usno/transit # For rise/set/transit times for major solar system bodies and selected bright stars
+require usno/eclipse # For fetching solar/lunar eclipse information
 ```
 
 ## Contributing
